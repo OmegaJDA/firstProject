@@ -1,0 +1,44 @@
+<html>
+
+<head>
+      <title></title>
+   </head>
+   <body style="background-color:Grey;">
+  
+  <font color =Purple>
+
+      <h1>The Happy Website</h1>
+ <a href="https://www.youtube.com/watch?v=bD3WzvDs1Mc">
+     <h3>  <p>You want to see something cute?</p> </h3>
+</a>
+<img src="Happy.Gif">
+
+<ol>
+
+<li>first item</li>
+
+<li>second item</li>
+
+</ol>
+<nav class="main-menu">
+  <ul>
+<div>
+    <li><a href="file:///E:/html_Projects/html_Sides/HappyWebsite2.html">Home</a></li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">About Us</a></li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Contact</a></li>
+</div>
+  </ul>
+</nav>
+ 
+<nav class="legal-links">
+  <ul>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Our Company</a></li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">AGB</a></li>
+    <li><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Other Useful Informations</a></li>
+  </ul>
+</nav>
+
+   </font>
+   </body>
+
+</html>
